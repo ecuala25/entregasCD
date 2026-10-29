@@ -1,7 +1,7 @@
 
 # 1. Tarjetas CRC — Sistema de gestión de una biblioteca
 
-## Clase: Libro
+## Clase: Libro 
 
 | Responsabilidades | Colaboradores |
 |---|---|
